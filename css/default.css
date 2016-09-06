@@ -1,0 +1,133 @@
+p { text-indent: 2em; } 
+
+td {  font-size: 13px;
+font-family: "Palatino Linotype", "verdana", "Arial", "sans-serif";
+ line-height: 140%;
+ color: #000000;
+ }
+ 
+.title {font-size: 14px;
+font-family: "Palatino Linotype","verdana", "Arial", "sans-serif";
+ line-height: 120%;
+ color: #777777;
+ font-weight : bold
+ }
+ 
+ .bluetxt {font-size: 12px;
+font-family: "verdana", "Arial", "sans-serif";
+ line-height: 120%;
+ color: #0456a2;
+ }
+ 
+.orange {color: #FF6600;}
+.orangebold {color: #FF6600;font-weight : bold}
+.datenew {color: #FF6600; font-size: 11px;}
+.date {color: #757575; font-size: 11px;}
+.pagebold {font-weight : bold}
+
+.maintext {font-size: 12px; line-height: 190%; color: #757575;}
+.english {font-size: 11px; line-height: 190%; color: #757575;font-family: "verdana", "Arial";}
+
+.titlelineheight {line-height: 60%}   /*用于标题br间距*/
+.brHT {line-height: 230%} /*段落br间距*/
+
+a:link {
+	text-decoration: underline;
+	color: #3A77A2;
+}
+a:hover {
+	text-decoration: underline;
+	color: #22A3FE;
+}
+
+a:visited {
+	text-decoration: underline;
+	color: #9F9F9F;
+}
+a:active {
+	text-decoration: underline;
+	color: #3A77A2;
+}
+
+a.submenu:link {
+font-size: 10px;
+    font-family: "verdana", "Arial", "sans-serif";
+	text-decoration: none;
+	color: #bcbcbc;
+}
+a.submenu:hover {
+font-size: 10px;
+font-family: "verdana", "Arial", "sans-serif";
+color: #333333;
+	background: #c0c0c0;
+}
+
+a.submenu:visited {
+font-size: 10px;
+font-family: "verdana", "Arial", "sans-serif";
+		text-decoration: none;
+	color: #8c8c8c;
+
+}
+a.submenu:active {
+font-family: "verdana", "Arial", "sans-serif";
+font-size: 10px;
+text-decoration: underline;
+color: #8c8c8c;
+	background: #c0c0c0;
+}
+
+a.bluelink:link {
+	text-decoration: none;
+	color: #0456a2;
+}
+a.bluelink:hover {
+	text-decoration: underline;
+	color: #0456A2;
+}
+
+a.bluelink:visited {
+		text-decoration: none;
+	color: #000000;
+}
+a.bluelink:active {
+	text-decoration: underline;
+	color: #0456A2;
+}
+
+a.orangelink:link {
+	text-decoration: none;
+	color: #FF6600;
+}
+a.orangelink:hover {
+	text-decoration: underline;
+	color: #FF6600;
+}
+
+a.orangelink:visited {
+		text-decoration: none;
+	color: #FF6600;
+}
+a.orangelink:active {
+	text-decoration: underline;
+	color: #FF6600;
+}
+
+a.blackunderline: link {
+color:#000000;
+text-decoration: underline;
+}
+a.blackunderline: hover {
+color:#000000;
+text-decoration: underline;
+}
+a.blackunderline: visited {
+color:#000000;
+text-decoration: underline;
+}
+a.blackunderline: active {
+color:#000000;
+text-decoration: underline;
+}
+
+
