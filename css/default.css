@@ -50,20 +50,20 @@ a:active {
 }
 
 a.submenu:link {
-font-size: 10px;
+font-size: 12px;
     font-family: "verdana", "Arial", "sans-serif";
 	text-decoration: none;
-	color: #bcbcbc;
+	color: #85602f;
 }
 a.submenu:hover {
-font-size: 10px;
+font-size: 12px;
 font-family: "verdana", "Arial", "sans-serif";
-color: #333333;
-	background: #c0c0c0;
+color: #fff;
+	background: #85602f;
 }
 
 a.submenu:visited {
-font-size: 10px;
+font-size: 12px;
 font-family: "verdana", "Arial", "sans-serif";
 		text-decoration: none;
 	color: #8c8c8c;
@@ -71,46 +71,10 @@ font-family: "verdana", "Arial", "sans-serif";
 }
 a.submenu:active {
 font-family: "verdana", "Arial", "sans-serif";
-font-size: 10px;
+font-size: 12px;
 text-decoration: underline;
 color: #8c8c8c;
 	background: #c0c0c0;
-}
-
-a.bluelink:link {
-	text-decoration: none;
-	color: #0456a2;
-}
-a.bluelink:hover {
-	text-decoration: underline;
-	color: #0456A2;
-}
-
-a.bluelink:visited {
-		text-decoration: none;
-	color: #000000;
-}
-a.bluelink:active {
-	text-decoration: underline;
-	color: #0456A2;
-}
-
-a.orangelink:link {
-	text-decoration: none;
-	color: #FF6600;
-}
-a.orangelink:hover {
-	text-decoration: underline;
-	color: #FF6600;
-}
-
-a.orangelink:visited {
-		text-decoration: none;
-	color: #FF6600;
-}
-a.orangelink:active {
-	text-decoration: underline;
-	color: #FF6600;
 }
 
 a.blackunderline: link {
