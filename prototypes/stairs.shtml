@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href="../css/default.css" rel="stylesheet" type="text/css">
+<title>Beebee's Portfolio</title>
+<style type="text/css">
+<!--
+.style2 {color: #658200}
+-->
+</style>
+
+</head>
+
+<body bgcolor="EBEBEB" onLoad="MM_preloadImages('../images/btAniDown.gif')">
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+    <td align="center"><img src="../images/header.jpg" width="853" height="111"></td>
+  </tr>
+
+</table>
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+    <!--#include file="../include/menu_prototypes.shtml" -->
+</table>
+<table width="853" border="0" align="center" cellpadding="8" cellspacing="8" bgcolor="ffffff">
+  <tr> 
+    <td height="10" align="left" bgcolor="#fff2e1"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td><a href="index.shtml" class="submenu">Task Modeling 
+          Annalysis</a><br></td>
+          <td><a href="stairs.shtml" class="submenu">Stairs Prototypes</a></td>
+          <td><a href="3m.shtml" class="submenu">3M Reflection</a></td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left"><span class="title">Stairs Prototypes:</span> <br>
+      Three prototypes were created for  
+      usability testing of new features of Autodesk Revit Stairs:<br>
+        - 3D Alighment: use a 2D way to simulate the 3D situation<br>
+        - Run Tag: mark and change the Rug Tag postion by drag &amp; drop<br>
+      - Step Numbers: mark the stair step numbers; once change a number, others 
+      will be changed together <br>
+      <br>
+      You can download the prototypes by clicking the images below.</td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="stairs/3d_alignment.zip"><img src="stair_3dAlignment.png" width="665" height="516" border="0"></a><br>
+      3D Alignment<br>
+      <br>
+      <a href="stairs/runtag.zip"><img src="stair_runTag.png" width="665" height="516" border="0"></a> 
+      <br>
+      Run Tag<br>
+      <br>
+      <a href="stairs/stepNumbers.zip"><img src="stair_stepNumbers.png" width="665" height="516" border="0"></a> 
+      <br>
+      Step Numbers<br>
+      <br>
+      <br>
+	  <a href="#top">Top</a> </td> 
+    </td>
+  </tr>
+</table>
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/footer.gif" width="853" height="64"></td>
+  </tr>
+</table>
+</body>
+</html>
