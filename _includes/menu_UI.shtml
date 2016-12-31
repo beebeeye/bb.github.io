@@ -28,7 +28,7 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 <body onLoad="MM_preloadImages('btPrototypesDown.gif','btAniDown.gif','btOthersDown.gif','btContactDown.gif','btMeDown.gif')">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="../index.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','../btMeDown.gif',1)"><img src="../btMe.gif" name="Image7" width="58" height="29" border="0"></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="../index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','../btMeDown.gif',1)"><img src="../btMe.gif" name="Image7" width="58" height="29" border="0"></a> 
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="../ui/index.shtml"><img src="../btUIDown.gif" name="Image2" width="24" height="29" border="0" id="Image2" onMouseOver="MM_swapImage('Image2','','../btUIDown.gif',1)" onMouseOut="MM_swapImgRestore()"></a> 
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="../prototypes/index.shtml"><img src="../btPrototypes.gif" name="Image3" width="79" height="29" border="0" id="Image3" onMouseOver="MM_swapImage('Image3','','../btPrototypesDown.gif',1)" onMouseOut="MM_swapImgRestore()"></a> 
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="../animations/index.shtml"><img src="../btAni.gif" name="Image4" width="79" height="29" border="0" id="Image4" onMouseOver="MM_swapImage('Image4','','../btAniDown.gif',1)" onMouseOut="MM_swapImgRestore()"></a> 
