@@ -1,0 +1,71 @@
+---
+
+# this is an empty front matter so that Jekyll will process this page
+
+---
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href="../css/default.css" rel="stylesheet" type="text/css">
+<title>Beebee's Portfolio</title>
+<style type="text/css">
+<!--
+.style2 {color: #658200}
+-->
+</style>
+
+</head>
+
+<body bgcolor="EBEBEB" onLoad="MM_preloadImages('../images/btAniDown.gif')">
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+    <td align="center"><img src="../images/header.jpg" width="853" height="111"></td>
+  </tr>
+
+</table>
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+  {% include menu_desktop.shtml %}
+</table>
+<table width="853" border="0" align="center" cellpadding="8" cellspacing="8" bgcolor="ffffff">
+  <tr> 
+    <td height="10" align="left" bgcolor="#fff2e1"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="20%"><a href="../desktop/index.shtml" class="submenu">AIR Look </a><br></td>
+          <td width="20%"><a href="../desktop/performance_monitor.shtml" class="submenu">Performance Monitor </a></td>
+          <td width="20%"><a href="../desktop/architecture_communicator.shtml" class="submenu">Architecture Communicator</a></td>
+          <td width="20%"><a href="../desktop/lights.shtml" class="submenu">Lights</a></td>
+          <td width="20%"><a href="../desktop/search_pane.shtml" class="submenu">MSN Search Pane </a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left"><p class="title">AIR Look is a project about design consistency of Autodesk products. Making a consisdent design guidline, design patterns and work process, Autodesk's multiple products finally share the same feel and look.</p>
+    </td>
+  </tr>
+  <tr> 
+    <td align="center"><img src="Air_look/icons.jpg" width="485" height="306"><br>
+      <br>
+      <img src="Air_look/icon_Ribbon.png" width="657" height="616"><br>
+      <br>
+      <img src="Air_look/icon_concept2real.png" width="431" height="274"><br>
+      <br>
+      <img src="Air_look/ill_mep.png" width="562" height="506"><br>
+      <br>
+      <img src="Air_look/ill_rac.png" width="562" height="506"><br>
+      <br>
+      <img src="Air_look/ill_rac2.png" width="562" height="506"><br>
+      <br>
+      <img src="Air_look/ill_simplify.png" width="562" height="506"><br>
+    <a href="#top">Top</a> </td>
+  </tr>
+</table>
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/footer.gif" width="853" height="64"></td>
+  </tr>
+</table>
+</body>
+</html>

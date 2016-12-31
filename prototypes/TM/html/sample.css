@@ -1,0 +1,56 @@
+h1 { 
+   color: #fefefe;
+font-style : oblique; 
+    font-weight:bold;
+	font-size:12px;
+	font-family:Verdana, Helvetica, sans-serif;
+    }
+	
+
+.headline2 { 
+   color: #fefefe;
+font-style : oblique; 
+    font-weight: bold;
+	font-size:12px;
+font-family:Verdana, Helvetica, sans-serif;
+line-height:10px;
+    }
+
+.sub { 
+   color: #fefefe;
+    font-weight: bold;
+	text-decoration : underline; 
+	font-size:11px;
+font-family:Verdana, Helvetica, sans-serif;
+    }
+		
+.content {
+    color: #c5c5c5;
+    font-weight: none;
+	font-size:12px;
+    }
+	
+.smallFont {
+   color: #888888;
+   text-decoration : underline; 
+	font-size:9px;
+}
+
+.number {
+   color:#888888;
+	font-size:10px;
+	background:#6699FF;
+}
+
+.numberCircle {
+   color:#c5c5c5;
+	font-size:13px;
+}
+
+.numberHighlight {
+   color: #ffffff;
+   background-color:#66CCFF;
+   font-weight: bold;
+	font-size:10px;
+}
+

@@ -1,0 +1,70 @@
+---
+
+# this is an empty front matter so that Jekyll will process this page
+
+---
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href="../css/default.css" rel="stylesheet" type="text/css">
+<title>Beebee's Portfolio</title>
+<style type="text/css">
+<!--
+.style2 {color: #658200}
+-->
+</style>
+
+</head>
+
+<body bgcolor="EBEBEB" onLoad="MM_preloadImages('../images/btAniDown.gif')">
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+    <td align="center"><img src="../images/header.jpg" width="853" height="111"></td>
+  </tr>
+
+</table>
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+  {% include menu_web.shtml %}
+</table>
+<table width="853" border="0" align="center" cellpadding="8" cellspacing="8" bgcolor="ffffff">
+  <tr> 
+    <td height="10" align="left" bgcolor="#fff2e1"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="20%"><a href="../others/index.shtml" class="submenu"></a><a href="../others/prints.shtml" class="submenu"></a><a href="../web/index.shtml" class="submenu">ISABELLA</a><a href="../others/3d.shtml" class="submenu"></a><br></td>
+          <td width="20%"><a href="../web/fei_lin.shtml" class="submenu">Vohringer</a></td>
+          <td width="20%"><a href="../web/3m.shtml" class="submenu">3M China</a><a href="../others/index.shtml" class="submenu"></a><a href="../others/3d.shtml" class="submenu"></a></td>
+          <td width="20%"><a href="../web/iredwood.shtml" class="submenu">iRedwood</a><a href="../others/3d.shtml" class="submenu"></a></td>
+          <td width="20%"><a href="../web/kako.shtml" class="submenu">KAKO</a><a href="../others/3d.shtml" class="submenu"></a></td>
+        </tr>
+		<tr> 
+          <td width="20%"><a href="../others/index.shtml" class="submenu"></a><a href="../others/prints.shtml" class="submenu"></a><a href="../web/KOOKIN.shtml" class="submenu">KOOKIN</a><br></td>
+          <td width="20%"><a href="../web/mei_biao.shtml" class="submenu">American Standard </a></td>
+          <td width="20%">&nbsp;</td>
+          <td width="20%">&nbsp;</td>
+          <td width="20%">&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left"><span class="title">KAKO</span></td>
+  </tr>
+  <tr> 
+    <td align="center"> <img src="kako/kako1.png" width="653" height="342"><br>
+      <br>
+      <img src="kako/web_kako.png" width="653" height="529"><br>
+      <br>
+      <img src="kako/web_kako2.png" width="653" height="529"><br>
+      <br>
+    <a href="#top">Top</a> </td>
+  </tr>
+</table>
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/footer.gif" width="853" height="64"></td>
+  </tr>
+</table>
+</body>
+</html>

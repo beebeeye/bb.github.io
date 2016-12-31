@@ -1,0 +1,62 @@
+---
+
+# this is an empty front matter so that Jekyll will process this page
+
+---
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href="../css/default.css" rel="stylesheet" type="text/css">
+<title>Beebee's Portfolio</title>
+<style type="text/css">
+<!--
+.style2 {color: #658200}
+-->
+</style>
+
+</head>
+
+<body bgcolor="EBEBEB" onLoad="MM_preloadImages('../images/btAniDown.gif')">
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+    <td align="center"><img src="../images/header.jpg" width="853" height="111"></td>
+  </tr>
+
+</table>
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+  {% include menu_mobile.shtml %}
+</table>
+<table width="853" border="0" align="center" cellpadding="8" cellspacing="8" bgcolor="ffffff">
+  <tr> 
+    <td height="10" align="left" bgcolor="#fff2e1"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="20%"><a href="index.shtml" class="submenu">the Mask </a><br></td>
+          <td width="20%"><a href="../mobile/story_teller.shtml" class="submenu">Story Teller </a></td>
+          <td width="20%"><a href="../mobile/ping_pong.shtml" class="submenu">Ping Pong Score Board </a></td>
+          <td width="20%"><a href="../mobile/ktcp.shtml" class="submenu">KTCP Clinical Assistant </a></td>
+          <td width="20%"><a href="../mobile/tap_tag.shtml" class="submenu">Tap Tag </a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left"><span class="title">Tap Tag is a useful app which can help users quickly get the location  they have visited before. </span></td>
+  </tr>
+  <tr> 
+    <td align="center"><br>
+      <br>
+      <img src="tap_tag/taptag.png" width="601" height="650"><br>
+      <br>
+      <br>
+    <a href="#top">Top</a> </td>
+  </tr>
+</table>
+<table width="853" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/footer.gif" width="853" height="64"></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -54,6 +54,7 @@ font-size: 12px;
     font-family: "verdana", "Arial", "sans-serif";
 	text-decoration: none;
 	color: #85602f;
+	background: #fff2e1;
 }
 a.submenu:hover {
 font-size: 12px;
@@ -66,9 +67,11 @@ a.submenu:visited {
 font-size: 12px;
 font-family: "verdana", "Arial", "sans-serif";
 		text-decoration: none;
-	color: #8c8c8c;
+color: #85602f;
+	background: #fff2e1;
 
 }
+
 a.submenu:active {
 font-family: "verdana", "Arial", "sans-serif";
 font-size: 12px;
