@@ -1,24 +1,24 @@
-p { text-indent: 2em; } 
+p { text-indent: 2em; }
 
 td {  font-size: 13px;
 font-family: "Palatino Linotype", "verdana", "Arial", "sans-serif";
  line-height: 140%;
  color: #000000;
  }
- 
+
 .title {font-size: 14px;
 font-family: "Palatino Linotype","verdana", "Arial", "sans-serif";
  line-height: 120%;
  color: #777777;
  font-weight : bold
  }
- 
+
  .bluetxt {font-size: 12px;
 font-family: "verdana", "Arial", "sans-serif";
  line-height: 120%;
  color: #0456a2;
  }
- 
+
 .orange {color: #FF6600;}
 .orangebold {color: #FF6600;font-weight : bold}
 .datenew {color: #FF6600; font-size: 11px;}
@@ -28,8 +28,8 @@ font-family: "verdana", "Arial", "sans-serif";
 .maintext {font-size: 12px; line-height: 190%; color: #757575;}
 .english {font-size: 11px; line-height: 190%; color: #757575;font-family: "verdana", "Arial";}
 
-.titlelineheight {line-height: 60%}   /*ÓÃÓÚ±êÌâbr¼ä¾à*/
-.brHT {line-height: 230%} /*¶ÎÂäbr¼ä¾à*/
+.titlelineheight {line-height: 60%}   /*ï¿½ï¿½ï¿½Ú±ï¿½ï¿½ï¿½brï¿½ï¿½ï¿½ï¿½*/
+.brHT {line-height: 230%} /*ï¿½ï¿½ï¿½ï¿½brï¿½ï¿½ï¿½ï¿½*/
 
 a:link {
 	text-decoration: underline;
@@ -97,4 +97,9 @@ color:#000000;
 text-decoration: underline;
 }
 
-
+.tagline {
+  font-size: 16px;
+  color: #FF6604;
+  font-weight: bold;
+  text-align: center;
+}
